@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-![Banner](https://your-banner-image-url) <!-- Add a banner image if you have one -->
+![Banner]([https://your-banner-image-url](https://github.com/su-jin1425/Call_Card/blob/main/img/ted.jpg))
 
 ## About Me
 
@@ -10,43 +10,46 @@ Hello! I'm Su-Jin, a passionate **Cloud Developer** and **Full Stack Developer**
 
 ### Cloud Development
 - **Amazon Web Services (AWS)**
-  - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 - **Google Cloud Platform (GCP)**
-  - ![GCP](https://img.icons8.com/color/48/000000/google-cloud.png)
+  ![GCP](https://img.icons8.com/color/48/000000/google-cloud.png)
 - **Microsoft Azure**
-  - ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+  ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 
 ### Full Stack Development
 - **Frontend**
   - **HTML5**
-    - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+    ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
   - **CSS3**
-    - ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+    ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
   - **JavaScript**
-    - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+    ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
   - **React**
-    - ![React](https://img.icons8.com/color/48/000000/react-native.png)
+    ![React](https://img.icons8.com/color/48/000000/react-native.png)
   - **Vue.js**
-    - ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
-
+    ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+   
 - **Backend**
   - **Node.js**
-    - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-  - **Express.js**
-    - ![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png)
+    ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
   - **Python**
-    - ![Python](https://img.icons8.com/color/48/000000/python.png)
+    ![Python](https://img.icons8.com/color/48/000000/python.png)
   - **Django**
-    - ![Django](https://img.icons8.com/color/48/000000/django.png)
+    ![Django](https://img.icons8.com/color/48/000000/django.png)
 
 - **Database**
   - **MySQL**
-    - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+    ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
   - **MongoDB**
-    - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-  - **PostgreSQL**
-    - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+    ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+    
 
+- **Other Technologies**
+  - **Next.js**
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  - **Three.js**
+    ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+ 
 ## 🌐 Connect with Me
 
 - **Portfolio**: [My Portfolio](https://su-jin1425.github.io/My_Portfolio/)
@@ -59,10 +62,8 @@ Hello! I'm Su-Jin, a passionate **Cloud Developer** and **Full Stack Developer**
 
 ## 🏆 Achievements
 
-- ![Credly Badge](https://img.icons8.com/color/48/000000/credly.png) [View my Credly profile](https://www.credly.com/users/your-profile)
+- ![M](https://img.icons8.com/color/48/000000/credly.png) [View my Certification]([https://www.credly.com/users/your-profile](https://github.com/su-jin1425/My-Certification))
 
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-![Footer](https://your-footer-image-url) <!-- Add a footer image if you have one -->
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas..!

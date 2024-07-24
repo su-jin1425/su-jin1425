@@ -1,10 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-![Banner](https://github.com/su-jin1425/Call_Card/blob/main/img/ted.jpg)
-
-## About Me
-
-Hello! I'm Su-Jin, a passionate **Cloud Developer** and **Full Stack Developer**. I specialize in creating scalable, secure, and high-performance applications. I run a website development company called **Shoot the Breeze Studio**, where we turn ideas into digital realities.
+Hello! I'm Sujith, a passionate **Cloud Developer** and **Full Stack Developer**. I specialize in creating scalable, secure, and high-performance applications. I run a website development company called **Shoot the Breeze Studio**, where we turn ideas into digital realities.
 
 ## 🚀 My Skills
 

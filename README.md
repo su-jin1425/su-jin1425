@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-![Banner]([https://your-banner-image-url](https://github.com/su-jin1425/Call_Card/blob/main/img/ted.jpg))
+![Banner](https://github.com/su-jin1425/Call_Card/blob/main/img/ted.jpg)
 
 ## About Me
 

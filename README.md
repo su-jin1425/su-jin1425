@@ -52,13 +52,9 @@ Hello! I'm Sujith, a passionate **Cloud Developer** and **Full Stack Developer**
 - **3D World**: [My 3D World](https://my-3d-world-sujin1425.vercel.app/)
 - **Shoot the Breeze Studio**: [Shoot the Breeze](https://su-jin1425.github.io/Shoot_The_Breeze/)
 
-## 📈 GitHub Stats
-
-![Su-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-jin1425&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
-- ![M](https://img.icons8.com/color/48/000000/credly.png) [View my Certification]([https://www.credly.com/users/your-profile](https://github.com/su-jin1425/My-Certification))
+- [View my Certification](https://github.com/su-jin1425/My-Certification)
 
 ---
 

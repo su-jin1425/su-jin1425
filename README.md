@@ -58,7 +58,7 @@ Hello! I'm Sujith, a passionate **Cloud Developer** and **Full Stack Developer**
 
 - **Portfolio**: [My Portfolio](https://su-jin1425.github.io/My_Portfolio/)
 - **3D World**: [My 3D World](https://my-3d-world.vercel.app/)
-- **Shoot the Breeze Studio**: [Shoot the Breeze](https://su-jin1425.github.io/Shoot_The_Breeze/)
+- **Shoot the Breeze Studio**: [Shoot the Breeze](https://shoot-the-breeze.vercel.app/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sujith_1425)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujith14) 
 

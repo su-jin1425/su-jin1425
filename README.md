@@ -57,6 +57,7 @@ Hello! I'm Sujith, a passionate **Cloud Developer** and **Full Stack Developer**
 ## 🌐 Connect with Me
 
 - **Portfolio**: [My Portfolio](https://sujith1425.vercel.app/)
+- **Projects**: [My Projects](https://project-odyssey-sujith.vercel.app/)
 - **3D World**: [My 3D World](https://my-3d-world.vercel.app/)
 - **Shoot the Breeze Studio**: [Shoot the Breeze](https://shoot-the-breeze.vercel.app/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sujith_1425)

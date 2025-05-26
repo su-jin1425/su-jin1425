@@ -68,7 +68,10 @@ Hello! I'm Sujith, a passionate **Cloud Developer** and **Full Stack Developer**
 - [View my Certification](https://github.com/su-jin1425/My-Certification)
 
 ---
+<div align=center>
+  <img src="https://i.imgur.com/cl1lPau.gif" />
+</div>
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas..!
 &nbsp; &nbsp; [![](https://visitcount.itsvg.in/api?id=Su-jin1425&icon=2&color=0)](https://visitcount.itsvg.in)
-![image](https://github.com/user-attachments/assets/6cc19b33-c551-49d0-88b8-43ae53925d35)
+

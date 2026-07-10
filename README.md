@@ -44,6 +44,23 @@ I build scalable web apps and cloud-backed systems, and run a small studio turni
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=green)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
+#### AI/ML & Data
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=orange)
+#### Data Engineering & Infra
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=red)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=%232496ED)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=red)
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=grafana&logoColor=orange)
+#### Dev Tools
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)

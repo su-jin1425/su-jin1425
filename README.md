@@ -99,12 +99,11 @@ I build scalable web apps and cloud-backed systems, and run a small studio turni
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=su-jin1425&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+![](https://raw.githubusercontent.com/Nullskulls/Nullskulls/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=su-jin1425&theme=neon&hide_border=false)
+
 
 ## 🌐 Find Me
 
